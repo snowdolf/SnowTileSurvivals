@@ -7,6 +7,7 @@ public class CharacterSelectManager : MonoBehaviour
     public static CharacterSelectManager Instance;
 
     public string characterName = "";
+    public int job = 0;
 
     private void Awake()
     {
