@@ -11,7 +11,7 @@ public class CharacterSelectButton : MonoBehaviour
 
     public void Select()
     {
-        CharacterSelectManager.Instance.name = "nameText.text";
+        CharacterSelectManager.Instance.characterName = nameText.text;
         SceneManager.LoadScene("MainScene");
     }
 }
