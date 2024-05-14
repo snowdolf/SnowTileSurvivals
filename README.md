@@ -1,9 +1,14 @@
 # SnowTileSurvivals
 
 ### 게임 진행 화면
+
 |캐릭터 선택|
 |---|
 |![image](https://github.com/snowdolf/SnowTileSurvivals/assets/156879693/d20f24cc-6cb6-4614-8e46-9f8312bf4477)|
+
+|전체화면|
+|---|
+|![image](https://github.com/snowdolf/SnowTileSurvivals/assets/156879693/071f1c29-789a-4f5c-86ca-90125a182ec0)|
 
 |펭귄|무사|
 |---|---|
